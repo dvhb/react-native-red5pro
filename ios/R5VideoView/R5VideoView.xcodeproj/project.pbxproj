@@ -285,7 +285,7 @@
 				DEVELOPMENT_TEAM = E964K44BWW;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/../../example/ios/Frameworks",
+					"$(SRCROOT)/../../../../ios/Frameworks",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -301,7 +301,7 @@
 				DEVELOPMENT_TEAM = E964K44BWW;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/../../example/ios/Frameworks",
+					"$(SRCROOT)/../../../../ios/Frameworks",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
